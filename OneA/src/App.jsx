@@ -182,17 +182,17 @@ export default function AnimatedHeart() {
   <h1>Happy Birthday My Love ❤️🎉</h1>
   <p>
     To my favorite man ,
-    wish you the happiest birthday.<br />
+    wish you the happiest birthday.
     hope to celebrate countless more birthdays 
-    by your side loving and laughing in your arms. <br />
+    by your side loving and laughing in your arms. 
     knd ni ibyagaciro kuba nkufite mu buzima bwanjye.
-    you make my life better.<br />
+    you make my life better.
     and I will continue loving you and calling you mine 
     Every smile,every gentle touch from you  
     makes my world brighter.
     On this special day, I wish for you all the joy, laughter, and love  
     that you have brought into my life.  
-    You will forever be my man.  <br />
+    You will forever be my man. 
     Happy birthday, my love—today and always, I am yours. 💖✨
   </p>
   <div className="floating-hearts"></div>
