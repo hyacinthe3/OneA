@@ -189,7 +189,7 @@ export default function AnimatedHeart() {
     you make my life better.<br />
     and I will continue loving you and calling you mine 
     Every smile,every gentle touch from you  
-    makes my world brighter.  <br />
+    makes my world brighter.
     On this special day, I wish for you all the joy, laughter, and love  
     that you have brought into my life.  
     You will forever be my man.  <br />
